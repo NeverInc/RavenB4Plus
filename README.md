@@ -3,5 +3,8 @@ Raven b4+++ is built on top of Raven b++ wich is pvp and utility mod (tottaly) f
 Offical Discord of Raven b4+++:
 Soon
 # Installation & Download
-Download the latest version 
-https://github.com/NeverInc/RavenB4-Fake-/releases/tag/RavenB4
+Download forge for 1.8.9 here: https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar 
+and run the installer.
+Download optifine here:
+https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=ba1e
+_The End_
